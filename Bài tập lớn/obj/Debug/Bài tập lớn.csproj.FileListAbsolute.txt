@@ -1,0 +1,28 @@
+D:\của Loopy\PTUD\Bài tập lớn\Bài tập lớn\bin\Debug\Bài tập lớn.exe.config
+D:\của Loopy\PTUD\Bài tập lớn\Bài tập lớn\bin\Debug\Bài tập lớn.exe
+D:\của Loopy\PTUD\Bài tập lớn\Bài tập lớn\bin\Debug\Bài tập lớn.pdb
+D:\của Loopy\PTUD\Bài tập lớn\Bài tập lớn\obj\Debug\Bài tập lớn.csproj.AssemblyReference.cache
+D:\của Loopy\PTUD\Bài tập lớn\Bài tập lớn\obj\Debug\Bài_tập_lớn.Form3.resources
+D:\của Loopy\PTUD\Bài tập lớn\Bài tập lớn\obj\Debug\Bài_tập_lớn.frmChinh.resources
+D:\của Loopy\PTUD\Bài tập lớn\Bài tập lớn\obj\Debug\Bài_tập_lớn.Properties.Resources.resources
+D:\của Loopy\PTUD\Bài tập lớn\Bài tập lớn\obj\Debug\Bài tập lớn.csproj.GenerateResource.cache
+D:\của Loopy\PTUD\Bài tập lớn\Bài tập lớn\obj\Debug\Bài tập lớn.csproj.CoreCompileInputs.cache
+D:\của Loopy\PTUD\Bài tập lớn\Bài tập lớn\obj\Debug\Bài tập lớn.exe
+D:\của Loopy\PTUD\Bài tập lớn\Bài tập lớn\obj\Debug\Bài tập lớn.pdb
+D:\của Loopy\PTUD\Bài tập lớn\Bài tập lớn\obj\Debug\Bài_tập_lớn.Form4.resources
+D:\của Loopy\PTUD\Bài tập lớn\Bài tập lớn\obj\Debug\Bài_tập_lớn.Form1.resources
+D:\của Loopy\PTUD\Bài tập lớn\Bài tập lớn\obj\Debug\Bài_tập_lớn.Form2.resources
+D:\của Loopy\PTUD\Bài tập lớn - Copy\Bài tập lớn\obj\Debug\Bài tập lớn.csproj.AssemblyReference.cache
+D:\của Loopy\PTUD\Bài tập lớn - Copy\Bài tập lớn\obj\Debug\Bài_tập_lớn.Form1.resources
+D:\của Loopy\PTUD\Bài tập lớn - Copy\Bài tập lớn\obj\Debug\Bài_tập_lớn.Form2.resources
+D:\của Loopy\PTUD\Bài tập lớn - Copy\Bài tập lớn\obj\Debug\Bài_tập_lớn.Form3.resources
+D:\của Loopy\PTUD\Bài tập lớn - Copy\Bài tập lớn\obj\Debug\Bài_tập_lớn.Form4.resources
+D:\của Loopy\PTUD\Bài tập lớn - Copy\Bài tập lớn\obj\Debug\Bài_tập_lớn.frmChinh.resources
+D:\của Loopy\PTUD\Bài tập lớn - Copy\Bài tập lớn\obj\Debug\Bài tập lớn.csproj.GenerateResource.cache
+D:\của Loopy\PTUD\Bài tập lớn - Copy\Bài tập lớn\obj\Debug\Bài tập lớn.exe
+D:\của Loopy\PTUD\Bài tập lớn - Copy\Bài tập lớn\obj\Debug\Bài tập lớn.pdb
+D:\của Loopy\PTUD\Bài tập lớn - Copy\Bài tập lớn\bin\Debug\Bài tập lớn.exe.config
+D:\của Loopy\PTUD\Bài tập lớn - Copy\Bài tập lớn\bin\Debug\Bài tập lớn.exe
+D:\của Loopy\PTUD\Bài tập lớn - Copy\Bài tập lớn\bin\Debug\Bài tập lớn.pdb
+D:\của Loopy\PTUD\Bài tập lớn - Copy\Bài tập lớn\obj\Debug\Bài_tập_lớn.Properties.Resources.resources
+D:\của Loopy\PTUD\Bài tập lớn - Copy\Bài tập lớn\obj\Debug\Bài tập lớn.csproj.CoreCompileInputs.cache
